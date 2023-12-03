@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "*.jslib": "javascript",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "unordered_set": "cpp"
     }
 }
